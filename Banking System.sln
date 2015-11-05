@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project "Banking System", "Banking System\Banking System.csproj"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDB0193-4991-4175-A2B8-9B8EF82199F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB0193-4991-4175-A2B8-9B8EF82199F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB0193-4991-4175-A2B8-9B8EF82199F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB0193-4991-4175-A2B8-9B8EF82199F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

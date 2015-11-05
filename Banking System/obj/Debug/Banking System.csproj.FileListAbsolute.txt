@@ -1,0 +1,168 @@
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\bin\Debug\Banking System.exe.config
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\bin\Debug\Banking System.exe
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\bin\Debug\Banking System.pdb
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking System.exe
+c:\users\surprisee\documents\visual studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Documents\Visual Studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+C:\Users\SURPRISEE\Documents\Visual Studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+C:\Users\SURPRISEE\Documents\Visual Studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+C:\Users\SURPRISEE\Documents\Visual Studio 2012\Projects\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Account.AccType.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.SQLServerConnectionscs.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking System.csproj.ResolveComReference.cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.CellPhoneBank.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Customer.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.RemoteBank.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Statement.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.CustomerProfile.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.StopOrder.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking_System.Account.AccountManagement.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking System.csproj.ResolveComReference.cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\WebCam_Capture.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Account.AccountManagement.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Account.AccType.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.CellPhoneBank.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Customer.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Statement.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.CustomerProfile.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.RemoteBank.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.SQLServerConnectionscs.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.StopOrder.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\bin\Debug\Interop.WIA.dll
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.OutOfService.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Form2.resources
+C:\Users\SURPRISEE\Desktop\MCSD\Portfolio\JMR Software\Banking Management System\Application\Windows Forms\Without\Banking System\Banking System\obj\Debug\Banking_System.Balance.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csproj.ResolveComReference.cache
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Account.AccountManagement.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Account.AccType.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.CellPhoneBank.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Customer.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Statement.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.CustomerProfile.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Balance.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Form2.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.OutOfService.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.RemoteBank.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.SQLServerConnectionscs.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.StopOrder.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+C:\Users\SURPRISEE\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+D:\Data\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.exe.config
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Interop.AcroPDFLib.dll
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csproj.ResolveComReference.cache
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.exe
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.pdb
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Account.AccountManagement.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Account.AccType.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.CellPhoneBank.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Customer.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Statement.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.CustomerProfile.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Balance.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Form2.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.OutOfService.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.RemoteBank.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.SQLServerConnectionscs.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.StopOrder.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+D:\Data\Desktop\Mac donald\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+D:\Data\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.exe
+D:\Data\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Banking System.pdb
+D:\Data\Desktop\Mac donald\Banking System\Banking System\bin\Debug\Interop.AcroPDFLib.dll
+D:\Data\Desktop\Mac donald\Banking System\Banking System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking System.csproj.ResolveComReference.cache
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Account.AccountManagement.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Account.AccType.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Customerr.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.CellPhoneBank.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Customer.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Statement.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.CustomerProfile.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Balance.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Deposite.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Form2.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.MDIParent1.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.OutOfService.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.RemoteBank.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.SQLServerConnectionscs.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.StopOrder.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Transfer.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking_System.Withdrawal.resources
+C:\Users\A.J\Desktop\progz\banking_system\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
